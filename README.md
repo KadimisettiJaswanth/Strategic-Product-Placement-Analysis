@@ -20,4 +20,4 @@ Dataset link:
 https://www.kaggle.com/datasets/amitvkulkarni/impact-of-product-positioning-on-sales
 
 demo link:
-https://drive.google.com/file/d/17VW-4oI_DVM3PVRG4-wNE3j2M54hCmpo/view?usp=sharing
+[https://drive.google.com/file/d/17VW-4oI_DVM3PVRG4-wNE3j2M54hCmpo/view?usp=sharing](https://drive.google.com/file/d/1wIXLMkTJ3jPbs97ZyNs9eK2OshkHldXy/view?usp=sharing)
